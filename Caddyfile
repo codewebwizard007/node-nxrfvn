@@ -1,0 +1,3 @@
+devine11.backend.rohit.localhost {
+        reverse_proxy localhost:8080
+}
